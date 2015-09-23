@@ -1,4 +1,4 @@
-SUBDIRS = w1 w3
+SUBDIRS = 1-prompt 2-processCreation 3-signal
 
 all:
 	for dir in $(SUBDIRS) ; \
