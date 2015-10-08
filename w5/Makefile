@@ -1,4 +1,4 @@
-SUBDIRS = w1 w3 w5
+SUBDIRS = 1-structure 2-jobsCtrl
 
 all:
 	for dir in $(SUBDIRS) ; \
